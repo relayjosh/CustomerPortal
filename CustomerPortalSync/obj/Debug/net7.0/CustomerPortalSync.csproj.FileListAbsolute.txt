@@ -1,0 +1,15 @@
+C:\GitHub\CustomerPortal\CustomerPortalSync\bin\Debug\net7.0\CustomerPortalSync.exe
+C:\GitHub\CustomerPortal\CustomerPortalSync\bin\Debug\net7.0\CustomerPortalSync.deps.json
+C:\GitHub\CustomerPortal\CustomerPortalSync\bin\Debug\net7.0\CustomerPortalSync.runtimeconfig.json
+C:\GitHub\CustomerPortal\CustomerPortalSync\bin\Debug\net7.0\CustomerPortalSync.dll
+C:\GitHub\CustomerPortal\CustomerPortalSync\bin\Debug\net7.0\CustomerPortalSync.pdb
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.csproj.AssemblyReference.cache
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.AssemblyInfoInputs.cache
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.AssemblyInfo.cs
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.csproj.CoreCompileInputs.cache
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.dll
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\refint\CustomerPortalSync.dll
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.pdb
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\CustomerPortalSync.genruntimeconfig.cache
+C:\GitHub\CustomerPortal\CustomerPortalSync\obj\Debug\net7.0\ref\CustomerPortalSync.dll

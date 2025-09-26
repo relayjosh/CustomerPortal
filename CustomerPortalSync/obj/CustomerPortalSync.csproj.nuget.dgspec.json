@@ -1,0 +1,55 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\CustomerPortal\\CustomerPortalSync\\CustomerPortalSync.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\CustomerPortal\\CustomerPortalSync\\CustomerPortalSync.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\CustomerPortal\\CustomerPortalSync\\CustomerPortalSync.csproj",
+        "projectName": "CustomerPortalSync",
+        "projectPath": "C:\\GitHub\\CustomerPortal\\CustomerPortalSync\\CustomerPortalSync.csproj",
+        "packagesPath": "C:\\Users\\Josh Sauer\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\CustomerPortal\\CustomerPortalSync\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Josh Sauer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net48",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net48",
+          "dependencies": {
+            "Microsoft.NETFramework.ReferenceAssemblies": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

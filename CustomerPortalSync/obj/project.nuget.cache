@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "OItxwFUedQue5re5ILSs4lO7ftibyovaHL+GiuUUrCZQe1pmGuJU9UwUs8+9qjecsgIPpkxea/kWEFQ/FZ5qwA==",
+  "success": false,
+  "projectFilePath": "C:\\GitHub\\CustomerPortal\\CustomerPortalSync\\CustomerPortalSync.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETFramework.ReferenceAssemblies (>= 1.0.3)' for '.NETFramework,Version=v4.8'.",
+      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8"
+      ]
+    },
+    {
+      "code": "NU1100",
+      "level": "Error",
+      "message": "Unable to resolve 'Microsoft.NETFramework.ReferenceAssemblies (>= 1.0.3)' for '.NETFramework,Version=v4.8/win7-x86'.",
+      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.8/win7-x86"
+      ]
+    }
+  ]
+}

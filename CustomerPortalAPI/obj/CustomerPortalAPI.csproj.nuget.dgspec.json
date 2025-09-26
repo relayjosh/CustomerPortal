@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\GitHub\\CustomerPortal\\CustomerPortalAPI\\CustomerPortalAPI.csproj": {}
+  },
+  "projects": {
+    "C:\\GitHub\\CustomerPortal\\CustomerPortalAPI\\CustomerPortalAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\GitHub\\CustomerPortal\\CustomerPortalAPI\\CustomerPortalAPI.csproj",
+        "projectName": "CustomerPortalAPI",
+        "projectPath": "C:\\GitHub\\CustomerPortal\\CustomerPortalAPI\\CustomerPortalAPI.csproj",
+        "packagesPath": "C:\\Users\\Josh Sauer\\.nuget\\packages\\",
+        "outputPath": "C:\\GitHub\\CustomerPortal\\CustomerPortalAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Josh Sauer\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files\\dotnet\\sdk\\7.0.305\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
