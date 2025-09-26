@@ -1,0 +1,6 @@
+C:\GitHub\CustomerPortal\CustomerPortalAPI\obj\Debug\net7.0\CustomerPortalAPI.csproj.AssemblyReference.cache
+C:\GitHub\CustomerPortal\CustomerPortalAPI\obj\Debug\net7.0\CustomerPortalAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHub\CustomerPortal\CustomerPortalAPI\obj\Debug\net7.0\CustomerPortalAPI.AssemblyInfoInputs.cache
+C:\GitHub\CustomerPortal\CustomerPortalAPI\obj\Debug\net7.0\CustomerPortalAPI.AssemblyInfo.cs
+C:\GitHub\CustomerPortal\CustomerPortalAPI\obj\Debug\net7.0\CustomerPortalAPI.csproj.CoreCompileInputs.cache
+C:\GitHub\CustomerPortal\CustomerPortalAPI\obj\Debug\net7.0\CustomerPortalAPI.MvcApplicationPartsAssemblyInfo.cache

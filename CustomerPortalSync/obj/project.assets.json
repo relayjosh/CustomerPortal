@@ -1,13 +1,12 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v4.8": {},
-    ".NETFramework,Version=v4.8/win7-x86": {}
+    "net7.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v4.8": [
-      "Microsoft.NETFramework.ReferenceAssemblies >= 1.0.3"
+    "net7.0": [
+      "System.Data.Odbc >= 7.0.0"
     ]
   },
   "packageFolders": {
@@ -26,11 +25,11 @@
         "C:\\Users\\Josh Sauer\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net48"
+        "net7.0"
       ],
       "frameworks": {
-        "net48": {
-          "targetAlias": "net48",
+        "net7.0": {
+          "targetAlias": "net7.0",
           "projectReferences": {}
         }
       },
@@ -41,22 +40,31 @@
       }
     },
     "frameworks": {
-      "net48": {
-        "targetAlias": "net48",
+      "net7.0": {
+        "targetAlias": "net7.0",
         "dependencies": {
-          "Microsoft.NETFramework.ReferenceAssemblies": {
-            "suppressParent": "All",
+          "System.Data.Odbc": {
             "target": "Package",
-            "version": "[1.0.3, )",
-            "autoReferenced": true
+            "version": "[7.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
           }
         },
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
-      }
-    },
-    "runtimes": {
-      "win7-x86": {
-        "#import": []
       }
     }
   },
@@ -64,19 +72,10 @@
     {
       "code": "NU1100",
       "level": "Error",
-      "message": "Unable to resolve 'Microsoft.NETFramework.ReferenceAssemblies (>= 1.0.3)' for '.NETFramework,Version=v4.8'.",
-      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
+      "message": "Unable to resolve 'System.Data.Odbc (>= 7.0.0)' for 'net7.0'.",
+      "libraryId": "System.Data.Odbc",
       "targetGraphs": [
-        ".NETFramework,Version=v4.8"
-      ]
-    },
-    {
-      "code": "NU1100",
-      "level": "Error",
-      "message": "Unable to resolve 'Microsoft.NETFramework.ReferenceAssemblies (>= 1.0.3)' for '.NETFramework,Version=v4.8/win7-x86'.",
-      "libraryId": "Microsoft.NETFramework.ReferenceAssemblies",
-      "targetGraphs": [
-        ".NETFramework,Version=v4.8/win7-x86"
+        "net7.0"
       ]
     }
   ]
